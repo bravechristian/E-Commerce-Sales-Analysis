@@ -17,4 +17,23 @@ The "salesData.csv" file, which includes comprehensive details about each sale t
 During the first stage of data preparation, I completed the following tasks:
 1.  Data Inspection
 2.  Handling Missing Values
-3.  Data Formating
+3.  Data Formatting
+<br/><br/>
+
+### Exploratory Data Analysis (EDA)
+Exploratory analysis sought to answer the following questions:
+1. What is the general trend in sales?
+2. Which product or products are the best-selling and most profitable?
+3. When are sales at their peak?
+
+
+
+
+
+
+
+
+
+
+
+
