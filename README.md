@@ -1,2 +1,4 @@
-# salesData
-These  are sets of sequel queries I wrote to extract data from the table and also connect the microsoft sql studio to Power BI to visualize the views created in the sql studio
+# E-Commerce Sales Analysis
+<br/><br/>
+### Overview
+The goal of this e-commerce sales analysis project is to glean insightful information from the supplied sales data. This project uses data analytics and visualization tools to optimize sales effectiveness, enhance customer satisfaction, and stimulate corporate growth. The goal is to deliver actionable recommendations.
