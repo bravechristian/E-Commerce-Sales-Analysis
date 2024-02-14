@@ -5,3 +5,5 @@ The goal of this e-commerce sales analysis project is to glean insightful inform
 
 ### Data Source
 The "salesData.csv" file, which includes comprehensive details about each sale the company has made, is the main dataset used in this analysis.
+
+### Tools & Software
