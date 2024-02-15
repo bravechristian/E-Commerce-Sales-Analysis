@@ -60,8 +60,11 @@ ON a.order_date = b.order_date
 GROUP BY b.city;
 
 ~~~
+Microsoft Power BI was used extensively in this project, demonstrating the beneficial application of business intelligence in project work.
+<br/><br/>
 
 ### Result & Findings
+
 
 
 
