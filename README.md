@@ -27,8 +27,13 @@ Exploratory analysis sought to answer the following questions:
 3. When are sales at their peak?
 
 ### Analysis Methods
-The following are a few intriguing code snippets:
+Bulk insert was used to get into data Azure Studio, the following are a few intriguing code snippets:
 ~~~ SQL
+--Inserting data into the table
+BULK INSERT Sales_Data
+FROM 'C:\Users\camuh\Desktop\Datasets For Analysis\salesdata.csv'
+WITH (FORMAT = 'CSV');
+
 ~~~
 
 
