@@ -26,7 +26,10 @@ Exploratory analysis sought to answer the following questions:
 2. Which product or products are the best-selling and most profitable?
 3. When are sales at their peak?
 
-
+### Analysis Methods
+The following are a few intriguing code snippets:
+~~~ SQL
+~~~
 
 
 
