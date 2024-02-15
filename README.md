@@ -61,6 +61,7 @@ GROUP BY b.city;
 
 ~~~
 
+### Result & Findings
 
 
 
