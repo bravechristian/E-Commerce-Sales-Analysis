@@ -34,6 +34,31 @@ BULK INSERT Sales_Data
 FROM 'C:\Users\camuh\Desktop\Datasets For Analysis\salesdata.csv'
 WITH (FORMAT = 'CSV');
 
+
+SELECT SUM(price) AS Price ,SUM(qty_ordered) AS Qty 
+,ROUND(SUM(price * qty_ordered),2)  AS Cost, 
+ROUND(SUM(sales),2) AS sales ,SUM(sales) - SUM(qty_ordered) AS Profit ,b.city 
+FROM 
+(SELECT
+	order_date
+	,sales
+	,price
+	,qty_ordered
+	,product_line
+	,status_now
+FROM Sales_Data) a
+LEFT JOIN
+(SELECT
+	order_date
+	,contact_fname
+	,customer_name
+	,address_line1
+	,city
+FROM Sales_Data) b
+ON a.order_date = b.order_date
+
+GROUP BY b.city;
+
 ~~~
 
 
