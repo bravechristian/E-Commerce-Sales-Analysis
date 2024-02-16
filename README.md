@@ -64,6 +64,18 @@ Microsoft Power BI was used extensively in this project, demonstrating the benef
 <br/><br/>
 
 ### Result & Findings
+The analysis's outcome revealed the following:
+- Every year in the third quarter, the store made more sales than during the first two years of its existence.
+- Despite being the best-selling product category, classic cars lost money in the two territories.
+- All year long, planes and ships suffered total losses.
+
+
+<br/><br/>
+### Visuals
+
+![Sales by month 3](https://github.com/bravechristian/E-Commerce-Sales-Analysis/assets/113802347/c1968bf7-6c04-41d0-a9f9-74c8d336bc5c)
+
+![Sales by month](https://github.com/bravechristian/E-Commerce-Sales-Analysis/assets/113802347/e933a8c6-b73f-4855-9b28-603116b1e2bd)
 
 
 
