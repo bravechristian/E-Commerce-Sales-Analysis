@@ -81,6 +81,9 @@ The analysis's outcome revealed the following:
 
 ![sum3](https://github.com/bravechristian/E-Commerce-Sales-Analysis/assets/113802347/c4c77e90-bd85-4904-8064-d9b63e3d3af3)
 
+<br/><br/>
+### Recommendations
+
 
 
 
