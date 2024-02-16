@@ -77,6 +77,14 @@ The analysis's outcome revealed the following:
 
 ![Sales by month](https://github.com/bravechristian/E-Commerce-Sales-Analysis/assets/113802347/e933a8c6-b73f-4855-9b28-603116b1e2bd)
 
+![Sales Quarter](https://github.com/bravechristian/E-Commerce-Sales-Analysis/assets/113802347/75512f44-c64f-499c-b8d5-9104e9e8e45e)
+
+![sum3](https://github.com/bravechristian/E-Commerce-Sales-Analysis/assets/113802347/c4c77e90-bd85-4904-8064-d9b63e3d3af3)
+
+
+
+
+
 
 
 
