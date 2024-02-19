@@ -83,11 +83,14 @@ The analysis's outcome revealed the following:
 
 <br/><br/>
 ### Recommendations
-- The organizations should begin to consider factors that impede the sales of ships and planes, perhaps the price point should be reviewed and a new strategy devised for the marketing of these products.
+- The organizations should consider factors that impede the sales of ships and planes, perhaps the price point should be reviewed and a new strategy devised for the marketing of these products.
 - Since sales are periodic, it will be in place if research is funded into why that is the way it is, supposing we could identify the reason for the periodic sales, a strategy could be developed to help push and encourage sales all through the four quarters.
+- It seems like the product Classic Cars is in very high demand across all seasons, this could mean a couple of things one being that the product is excellent, and as such it should extended across a lot more regions, this will increase the overall revenue of the business.
+
+<br/><br/>
+
+### Limitations
 - 
-
-
 
 
 
