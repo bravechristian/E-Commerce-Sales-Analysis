@@ -65,7 +65,7 @@ Microsoft Power BI was used extensively in this project, demonstrating the benef
 
 ### Result & Findings
 The analysis's outcome revealed the following:
-- Every year in the third quarter, the store made more sales than during the first two years of its existence.
+- Every year in the fourth quarter, the store made more sales than during the first two years of its existence.
 - Despite being the best-selling product category, classic cars lost money in the two territories.
 - All year long, planes and ships suffered total losses.
 
@@ -83,7 +83,9 @@ The analysis's outcome revealed the following:
 
 <br/><br/>
 ### Recommendations
-
+- The organizations should begin to consider factors that impede the sales of ships and planes, perhaps the price point should be reviewed and a new strategy devised for the marketing of these products.
+- Since sales are periodic, it will be in place if research is funded into why that is the way it is, supposing we could identify the reason for the periodic sales, a strategy could be developed to help push and encourage sales all through the four quarters.
+- 
 
 
 
