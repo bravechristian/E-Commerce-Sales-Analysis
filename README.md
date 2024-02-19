@@ -90,7 +90,8 @@ The analysis's outcome revealed the following:
 <br/><br/>
 
 ### Limitations
-- 
+- During the cleaning phase of the data processing, null values were substituted for 0, this could impart the overall result of this analysis
+- The bulk insert command in SQL, some data could have been dropped due to data type compartibility issues, this could also have an impart on this analysis.
 
 
 
